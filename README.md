@@ -1,1 +1,1 @@
-Implementation of AnoT framework.
+# Python implementation of AnoT framework.
